@@ -71,6 +71,8 @@ sts: localhost
     homebrew_cask_packages:
       - { name: vmware-fusion }
       - { name: emacs-mac }
+      - { name: owasp-zap }
+      - { name: fiddler }
       - { name: evernote }
       - { name: wireshark }
       - { name: 0xed }
